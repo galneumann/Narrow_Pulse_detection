@@ -1,0 +1,4 @@
+cd Desktop
+cd Project
+gcc -Wall -pedantic -o project project.c rpi_dma_utils.c -lfftw3 -lm
+sudo ./project
