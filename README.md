@@ -9,8 +9,8 @@ Key Features:
 - MATLAB integration for high-quality plotting and analysis.
 
 Contents:
-docs/: Project documentation and guides.
-src/: Source code for all components, including Teensy, Raspberry Pi, and MATLAB.
-hardware/: Circuit diagrams, PCB layouts, and hardware details.
-tests/: Scripts for testing individual modules and the full system.
-results/: Generated plots and system performance logs.
+- docs/: Project documentation and guides.
+- src/: Source code for all components, including Teensy, Raspberry Pi, and MATLAB.
+- hardware/: Circuit diagrams, PCB layouts, and hardware details.
+- tests/: Scripts for testing individual modules and the full system.
+- results/: Generated plots and system performance logs.
